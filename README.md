@@ -40,6 +40,6 @@ https://datastudio.google.com/u/0/reporting/8650d20d-136e-4cab-9ecf-b3571fc0936a
 ![Dashboard Tema Claro](./dashboard_light.png)
 ---
 
-## 🛡️ Governança e LGPD
-Este projeto utiliza dados anonimizados e segue as boas práticas de governança e proteção de dados sensíveis.
+## 🛡️ Governança e LGP* [Governança e LGPD](./GOVERNANCA.md)Este projeto utiliza dados anonimizados e segue as boas práticas de governança e proteção de dados sensíveis.
 
+* [Governança e LGPD](./GOVERNANCA.md)
