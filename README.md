@@ -30,6 +30,8 @@ Identificar padrões comportamentais e demográficos que antecedem o cancelament
 * `/notebooks`: Análise detalhada em Python com insights diagnósticos.
 * `/dashboard`: Link ou arquivo para visualização gerencial.
 
+![Dashboard Tema Escuro](./dashboard_dark.png)
+![Dashboard Tema Claro](./dashboard_light.png)
 ---
 
 ## 🛡️ Governança e LGPD
