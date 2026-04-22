@@ -30,9 +30,16 @@ Identificar padrões comportamentais e demográficos que antecedem o cancelament
 * `/notebooks`: Análise detalhada em Python com insights diagnósticos.
 * `/dashboard`: Link ou arquivo para visualização gerencial.
 
+## 🔗 Dashboard Interativo (Looker Studio)
+
+Acesse o dashboard em tempo real clicando no link abaixo:
+
+https://datastudio.google.com/u/0/reporting/8650d20d-136e-4cab-9ecf-b3571fc0936a/page/7GzvF?s=r_R_LKksbSc
+
 ![Dashboard Tema Escuro](./dashboard_dark.png)
 ![Dashboard Tema Claro](./dashboard_light.png)
 ---
 
 ## 🛡️ Governança e LGPD
 Este projeto utiliza dados anonimizados e segue as boas práticas de governança e proteção de dados sensíveis.
+
